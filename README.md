@@ -1,2 +1,3 @@
 # hello-world
-this is my first program
+this is first testing program
+im pengray, i like php~
